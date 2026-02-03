@@ -241,7 +241,7 @@ collections:
     permalink: /:collection/:path/
   news:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:news/:name/
 
 
 # These settings control how pages and collections are included in the site
