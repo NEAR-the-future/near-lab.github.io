@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+# permalink: /research/
 author_profile: true
 ---
 
@@ -12,77 +12,53 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 
 <div class="research-grid">
 
-<!-- Panel 1 -->
-<div class="research-panel">
-  <div class="research-header">
-    <span class="research-icon">🦋</span>
-    <h3>Bio-Inspired & Flapping-Wing Robotics</h3>
+  <div class="research-card">
+    <img src="/assets/images/research/flapping.jpg" alt="Flapping Wing Robotics">
+    <div class="research-overlay">
+      <h3>Flapping-Wing Robotics</h3>
+      <p>
+        Bio-inspired flapping mechanisms and morphology-aware metrics
+        for agile, insect-scale flying robots.
+      </p>
+      <span>🦋 Aerodynamics · Morphology · Flight</span>
+    </div>
   </div>
 
-  <p class="research-desc">
-    We study flapping insects and vertebrate flyers to uncover fundamental principles of embodied intelligence.
-  </p>
-
-  <ul>
-    <li>Flapping-wing and morphologically adaptive robots</li>
-    <li>Aerodynamic–structural–control coupling</li>
-    <li>Highly dynamic, underactuated platforms</li>
-  </ul>
-</div>
-
-<!-- Panel 2 -->
-<div class="research-panel">
-  <div class="research-header">
-    <span class="research-icon">🧠</span>
-    <h3>Neuro-Embodied & Neuromorphic Systems</h3>
+  <div class="research-card">
+    <img src="/assets/images/research/neuro.jpg" alt="Neurorobotics">
+    <div class="research-overlay">
+      <h3>Neurorobotics</h3>
+      <p>
+        Neural dynamics, brain-inspired control, and closed-loop
+        perception–action systems for embodied agents.
+      </p>
+      <span>🧠 Neural Control · EEG · Dynamics</span>
+    </div>
   </div>
 
-  <p class="research-desc">
-    We explore neural principles of control and learning grounded in physical robotic systems.
-  </p>
-
-  <ul>
-    <li>Neurorobotics integrating sensing and actuation</li>
-    <li>Neuromorphic and neural-inspired control</li>
-    <li>Lightweight, energy-efficient hardware</li>
-  </ul>
-</div>
-
-<!-- Panel 3 -->
-<div class="research-panel">
-  <div class="research-header">
-    <span class="research-icon">🔁</span>
-    <h3>Adaptive & Lifelong Learning</h3>
+  <div class="research-card">
+    <img src="/assets/images/research/lifelong.jpg" alt="Lifelong Learning">
+    <div class="research-overlay">
+      <h3>Lifelong Learning</h3>
+      <p>
+        Continual adaptation under non-stationary environments
+        using Koopman operators and online learning.
+      </p>
+      <span>♻️ Adaptation · Continual Learning</span>
+    </div>
   </div>
 
-  <p class="research-desc">
-    Rather than learning from static datasets, we study robots that learn continuously through experience.
-  </p>
-
-  <ul>
-    <li>Lifelong and online learning in physical agents</li>
-    <li>Co-adaptation of morphology, control, and behavior</li>
-    <li>Learning under changing environments</li>
-  </ul>
-</div>
-
-<!-- Panel 4 -->
-<div class="research-panel">
-  <div class="research-header">
-    <span class="research-icon">⚙️</span>
-    <h3>Modeling, Dynamics & Control</h3>
+  <div class="research-card">
+    <img src="/assets/images/research/evolution.jpg" alt="Evolutionary Design">
+    <div class="research-overlay">
+      <h3>Evolutionary & Morphological Design</h3>
+      <p>
+        Co-design of body and intelligence through evolution,
+        morphology, and physical constraints.
+      </p>
+      <span>🧬 Evolution · Morphology · Co-design</span>
+    </div>
   </div>
-
-  <p class="research-desc">
-    Rigorous modeling and control theory underpin our experimental work.
-  </p>
-
-  <ul>
-    <li>Hybrid and physics-based modeling</li>
-    <li>Nonlinear dynamics and reduced-order models</li>
-    <li>Data-driven control of underactuated systems</li>
-  </ul>
-</div>
 
 </div>
 
