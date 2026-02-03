@@ -8,7 +8,6 @@ At the NEAR Lab, our research centers on **neuro-embodied adaptive robotics**, r
 
 We pursue an integrated approach spanning **robot design, modeling, control, and learning**, with an emphasis on **real-world embodiment** and **lifelong adaptation**.
 
----
 
 <div class="research-grid">
 
