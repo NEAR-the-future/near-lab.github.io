@@ -38,8 +38,8 @@ We value curiosity, rigor, and building systems that learn through real interact
 
   <!-- Member -->
   <div class="person-card">
-    <img src="/images/people/student1.jpg" alt="Student Name">
-    <h4>Chenrui Feng</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Chenrui Feng</h2>
     <p class="person-role">Research Engineer</p>
     <p class="person-interest">
       Embedded systems, modeling, control
@@ -47,8 +47,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student2.jpg" alt="Student Name">
-    <h4>Xingchi Jiao</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Xingchi Jiao</h2>
     <p class="person-role">Research Engineer</p>
     <p class="person-interest">
       Embedded systems, neuromorphic control, FPGA architecture
@@ -56,8 +56,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student3.jpg" alt="Student Name">
-    <h4>Rim El Filali</h4>
+    <img src="/images/people/people_placeholder_female.jpg" alt="Student Name">
+    <h2>Rim El Filali</h2>
     <p class="person-role">Master's Student</p>
     <p class="person-interest">
       Neuromorphic control, machine learning, neural computation
@@ -65,8 +65,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student4.jpg" alt="Student Name">
-    <h4>Lian Liu</h4>
+    <img src="/images/people/people_placeholder_female.jpg" alt="Student Name">
+    <h2>Lian Liu</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Mechanical design, CFD, aircraft prototyping
@@ -74,8 +74,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student5.jpg" alt="Student Name">
-    <h4>Chaolai Da</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Chaolai Da</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Electronic design, FPGA architecture, hardware simulation
@@ -83,8 +83,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student6.jpg" alt="Student Name">
-    <h4>Chun Zhang</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Chun Zhang</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Spiking neural networks, online learning
@@ -92,8 +92,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student7.jpg" alt="Student Name">
-    <h4>Hengyang Li</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Hengyang Li</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Aerodynamics, CFD, aircraft prototyping
@@ -101,8 +101,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student7.jpg" alt="Student Name">
-    <h4>Yuxuan Wang</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Yuxuan Wang</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Aerodynamics, mechanical design, aircraft prototyping
@@ -110,8 +110,8 @@ We value curiosity, rigor, and building systems that learn through real interact
   </div>
 
   <div class="person-card">
-    <img src="/images/people/student8.jpg" alt="Student Name">
-    <h4>Alberto Bellagamba</h4>
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Alberto Bellagamba</h2>
     <p class="person-role">Research Intern</p>
     <p class="person-interest">
       Reinforcement learning, simulator
@@ -125,7 +125,7 @@ We value curiosity, rigor, and building systems that learn through real interact
 <ul class="alumni-list">
   <li><strong>Xinge Huang</strong> — Now at Institute of Mechanics, Chinese Academy of Sciences, Beijing, PR China</li>
   <li><strong>Chen Yang</strong> — Now at School of Engineering, China University of Petroleum-Beijing at Karamay, Karamay, Xinjiang Uygur Autonomous Region, PR China</li>
-  <li><strong>Yuhe Ding</strong> — Now at School of Information and Software Engineering, UESTC, Chengdu, PR China / Company</li>
+  <li><strong>Yuhe Ding</strong> — Now at School of Information and Software Engineering, UESTC, Chengdu, PR China</li>
   <li><strong>Xiaofei Shi</strong> — Now at College of Engineering, Shantou University, Shantou, PR China</li>
 </ul>
 
