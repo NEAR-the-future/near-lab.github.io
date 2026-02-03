@@ -34,7 +34,7 @@ See the [**Research**](https://near-the-future.github.io/research/) page for det
 
 # Join Us
 
-We welcome students and collaborators interested in bio-inspired robots that learn and adapt through real-world interaction. For more information and contact details, please visit our [**People**](https://near-the-future.github.io/people/) — we’d be happy to hear from you.
+We welcome students and collaborators interested in bio-inspired robots that learn and adapt through real-world interaction. For more information and contact details, please visit our [**People**](https://near-the-future.github.io/people/) page — we’d be happy to hear from you.
 
 ---
 
