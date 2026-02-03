@@ -38,7 +38,7 @@ See the [**Research**](https://near-the-future.github.io/research/) page for det
 
 ---
 
-# News & Updates
+<!-- # News & Updates
 
 <div class="news-list">
 
@@ -64,7 +64,27 @@ See the [**Research**](https://near-the-future.github.io/research/) page for det
     </p>
   </div>
 
+</div> -->
+
+# News & Updates
+
+<div class="news-list">
+{% assign latest_news = site.news | sort: "date" | reverse | slice: 0,5 %}
+{% for item in latest_news %}
+  <div class="news-item">
+    <span class="news-date">
+      {{ item.date | date: "%Y · %b" }}
+    </span>
+    <p class="news-text">
+      <strong>{{ item.title }}</strong>
+    </p>
+  </div>
+{% endfor %}
 </div>
+
+<p style="text-align: right; margin-top: 0.5rem;">
+  <a href="/news/">View all updates →</a>
+</p>
 
 ---
 
