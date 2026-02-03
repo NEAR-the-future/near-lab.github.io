@@ -27,13 +27,14 @@ Our research focuses on **bio-inspired robotics and embodied intelligence**, inc
 - neuro-embodied and neuromorphic systems  
 - adaptation and lifelong learning in physical agents  
 - modeling, dynamics, and control of complex robotic systems 
+
 👉 See the [**Research**](https://near-the-future.github.io/research/) page for details.
 
 ---
 
 # Join Us
 
-We welcome **students, postdocs, and collaborators** interested in building robots that **learn through their bodies** and **adapt through interaction**.
+We welcome **students, postdocs, and collaborators** interested in building robots that **learn through their bodies** and **adapt through interaction**. If you are excited about bio-inspired robotics, neurorobotics, and embodied intelligence, we would be happy to hear from you.
 
 ---
 
