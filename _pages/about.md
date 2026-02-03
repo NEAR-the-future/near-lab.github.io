@@ -38,6 +38,36 @@ See the [**Research**](https://near-the-future.github.io/research/) page for det
 
 ---
 
+# News & Updates
+
+<div class="news-list">
+
+  <div class="news-item">
+    <span class="news-date">2026 · Jan</span>
+    <p class="news-text">
+      <strong>Paper accepted</strong> to <em>IEEE CDC 2026</em> on neuro-embodied control of flapping-wing robots.
+    </p>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">2025 · Dec</span>
+    <p class="news-text">
+      <strong>Invited talk</strong> at Tsinghua AIR seminar on neuromorphic embodied intelligence.
+    </p>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date">2025 · Nov</span>
+    <p class="news-text">
+      Released <strong>NEAR-Control</strong>, an open-source toolkit for adaptive control in underactuated robots.
+      <a href="#" class="news-link">[code]</a>
+    </p>
+  </div>
+
+</div>
+
+---
+
 # Join Us
 
 We welcome students and collaborators interested in bio-inspired robots that learn and adapt through real-world interaction. For more information and contact details, please visit our [**People**](https://near-the-future.github.io/people/) page — we’d be happy to hear from you.
