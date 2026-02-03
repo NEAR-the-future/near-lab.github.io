@@ -39,28 +39,82 @@ We value curiosity, rigor, and building systems that learn through real interact
   <!-- Member -->
   <div class="person-card">
     <img src="/images/people/student1.jpg" alt="Student Name">
-    <h4>Student Name</h4>
-    <p class="person-role">PhD Student</p>
+    <h4>Chenrui Feng</h4>
+    <p class="person-role">Research Engineer</p>
     <p class="person-interest">
-      Flapping-wing robotics, aerodynamics, modeling
+      Embedded systems, modeling, control
     </p>
   </div>
 
   <div class="person-card">
     <img src="/images/people/student2.jpg" alt="Student Name">
-    <h4>Student Name</h4>
-    <p class="person-role">Master’s Student</p>
+    <h4>Xingchi Jiao</h4>
+    <p class="person-role">Research Engineer</p>
     <p class="person-interest">
-      Neuromorphic control, neurorobotics
+      Embedded systems, neuromorphic control, FPGA architecture
     </p>
   </div>
 
   <div class="person-card">
     <img src="/images/people/student3.jpg" alt="Student Name">
-    <h4>Student Name</h4>
-    <p class="person-role">Undergraduate Researcher</p>
+    <h4>Rim El Filali</h4>
+    <p class="person-role">Master's Student</p>
     <p class="person-interest">
-      Lifelong learning, embodied AI
+      Neuromorphic control, machine learning, neural computation
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student4.jpg" alt="Student Name">
+    <h4>Lian Liu</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Mechanical design, CFD, aircraft prototyping
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student5.jpg" alt="Student Name">
+    <h4>Chaolai Da</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Electronic design, FPGA architecture, hardware simulation
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student6.jpg" alt="Student Name">
+    <h4>Chun Zhang</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Spiking neural networks, online learning
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student7.jpg" alt="Student Name">
+    <h4>Hengyang Li</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Aerodynamics, CFD, aircraft prototyping
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student7.jpg" alt="Student Name">
+    <h4>Yuxuan Wang</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Aerodynamics, mechanical design, aircraft prototyping
+    </p>
+  </div>
+
+  <div class="person-card">
+    <img src="/images/people/student8.jpg" alt="Student Name">
+    <h4>Alberto Bellagamba</h4>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Reinforcement learning, simulator
     </p>
   </div>
 
@@ -69,8 +123,10 @@ We value curiosity, rigor, and building systems that learn through real interact
 <h2>Alumni & Visitors</h2>
 
 <ul class="alumni-list">
-  <li><strong>Name</strong> — Now at Institution / Company</li>
-  <li><strong>Name</strong> — Visiting Student (Year)</li>
+  <li><strong>Xinge Huang</strong> — Now at Institute of Mechanics, Chinese Academy of Sciences, Beijing, PR China</li>
+  <li><strong>Chen Yang</strong> — Now at School of Engineering, China University of Petroleum-Beijing at Karamay, Karamay, Xinjiang Uygur Autonomous Region, PR China</li>
+  <li><strong>Yuhe Ding</strong> — Now at School of Information and Software Engineering, UESTC, Chengdu, PR China / Company</li>
+  <li><strong>Xiaofei Shi</strong> — Now at College of Engineering, Shantou University, Shantou, PR China</li>
 </ul>
 
 <hr>
