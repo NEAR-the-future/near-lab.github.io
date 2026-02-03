@@ -118,4 +118,78 @@
   margin-bottom: 0.4rem;
 }
 
+/* =========================
+   NEAR Lab – People Cards
+   ========================= */
+
+/* PI Card */
+.pi-card {
+  display: flex;
+  gap: 2rem;
+  margin: 2.5rem 0;
+  align-items: center;
+}
+
+.pi-card img {
+  width: 180px;
+  border-radius: 12px;
+}
+
+.pi-info h3 {
+  margin-bottom: 0.3rem;
+}
+
+.pi-title {
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 0.8rem;
+}
+
+.pi-desc {
+  max-width: 650px;
+  font-size: 0.95rem;
+}
+
+.pi-links a {
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+/* People Grid */
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.person-card {
+  text-align: center;
+}
+
+.person-card img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.6rem;
+}
+
+.person-role {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.person-interest {
+  font-size: 0.85rem;
+  color: #444;
+  margin-top: 0.4rem;
+}
+
+/* Alumni */
+.alumni-list {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
   

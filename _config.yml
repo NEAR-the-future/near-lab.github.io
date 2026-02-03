@@ -236,6 +236,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -297,6 +300,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _people
+  - scope:
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: true
