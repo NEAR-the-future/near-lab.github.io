@@ -80,8 +80,7 @@
 .research-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.65); /* dark overlay */  //rgba(255, 255, 255, 0.94);
-  color: #ffffff;
+  background:  rgba(255, 255, 255, 0.94);
   padding: 1.5rem;
   opacity: 0;
   transform: translateY(10px);
@@ -89,6 +88,10 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+[data-theme="dark"] .research-overlay {
+  background: rgba(0, 0, 0, 0.75);
 }
 
 /* Reveal on hover */
