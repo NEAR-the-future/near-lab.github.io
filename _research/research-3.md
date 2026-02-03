@@ -13,7 +13,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 <div class="research-grid">
 
   <div class="research-card">
-    <img src="/assets/images/research/flapping.jpg" alt="Flapping Wing Robotics">
+    <img src="images/research/flapping.jpg" alt="Flapping Wing Robotics">
     <div class="research-overlay">
       <h3>Flapping-Wing Robotics</h3>
       <p>
@@ -25,7 +25,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
   </div>
 
   <div class="research-card">
-    <img src="/assets/images/research/neuro.jpg" alt="Neurorobotics">
+    <img src="images/research/neuro.jpg" alt="Neurorobotics">
     <div class="research-overlay">
       <h3>Neurorobotics</h3>
       <p>
@@ -37,7 +37,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
   </div>
 
   <div class="research-card">
-    <img src="/assets/images/research/lifelong.jpg" alt="Lifelong Learning">
+    <img src="images/research/lifelong.jpg" alt="Lifelong Learning">
     <div class="research-overlay">
       <h3>Lifelong Learning</h3>
       <p>
@@ -49,7 +49,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
   </div>
 
   <div class="research-card">
-    <img src="/assets/images/research/evolution.jpg" alt="Evolutionary Design">
+    <img src="images/research/evolution.jpg" alt="Evolutionary Design">
     <div class="research-overlay">
       <h3>Evolutionary & Morphological Design</h3>
       <p>
