@@ -15,7 +15,10 @@ main:
     url: /publication/ #/publications/
 
   - title: "People"
-    url: /People/    
+    url: /people/   
+
+  - title: "Resources"
+    url: /resources/  
     
   # - title: "Portfolio"
   #   url: /portfolio/
