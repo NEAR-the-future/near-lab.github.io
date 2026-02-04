@@ -4,7 +4,7 @@ permalink: /people/
 author_profile: true
 ---
 
-The NEAR Lab is a small, interdisciplinary research group focused on building bio-inspired robotic systems that learn and adapt through physical interaction. Our members come from robotics, control, neuroscience, and machine learning, and share an interest in understanding intelligence as an embodied process. We value curiosity, technical rigor, and a hands-on approach to understanding intelligence through physical systems.
+The NEAR Lab is an interdisciplinary research group focused on building bio-inspired robotic systems that learn and adapt through physical interaction. Our members come from robotics, control, neuroscience, aerospace, and machine learning, and share an interest in understanding intelligence as an embodied process. We value curiosity, technical rigor, and a hands-on approach to understanding intelligence through physical systems.
 
 
 <!-- The NEAR Lab brings together researchers and engineers interested in **neuro-embodied adaptive robotics**, spanning bio-inspired machines, neurorobotics, modeling, and lifelong learning.

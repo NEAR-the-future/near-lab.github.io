@@ -36,7 +36,7 @@ Our research focuses on **bio-inspired robotics and embodied intelligence**, inc
 
 See the [**Research**](https://near-the-future.github.io/research/) page for details.
 
----
+<!-- --- -->
 
 <!-- # News & Updates
 

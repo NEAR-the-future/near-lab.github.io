@@ -15,13 +15,13 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
   <div class="research-panel">
     <img src="/images/research/flapping.jpg" alt="Bio-Inspired Flapping-Wing Robotics">
     <div class="research-overlay">
-      <h3>Bio-Inspired & Flapping-Wing Robotics</h3>
+      <h3>Bio-Inspired Flapping-Wing Robotics</h3>
       <p>
-        We study flapping insects and vertebrate flyers to uncover principles of embodied intelligence.
+        Uncover principles of embodied intelligence from flapping insects and vertebrate flyers.
       </p>
       <ul>
         <li>Flapping-wing and morphologically adaptive robots</li>
-        <li>Aerodynamic–structural–control coupling</li>
+        <li>Aerodynamic–structural coupling</li>
         <li>Highly dynamic, underactuated platforms</li>
       </ul>
     </div>
@@ -54,7 +54,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
       <ul>
         <li>Lifelong and online learning</li>
         <li>Co-adaptation of body, control, and behavior</li>
-        <li>Learning under changing environments</li>
+        <li>Long-term autonomy under changing environments</li>
       </ul>
     </div>
   </div>
@@ -65,12 +65,12 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
     <div class="research-overlay">
       <h3>Modeling, Dynamics & Control</h3>
       <p>
-        Theory and models that support understanding and design of complex robots.
+        Theories and models that support understanding and design of complex robots.
       </p>
       <ul>
-        <li>Hybrid and physics-based modeling</li>
+        <li>Hybrid modeling and physical simulator</li>
         <li>Nonlinear dynamics and reduced-order models</li>
-        <li>Data-driven control strategies</li>
+        <li>Data-driven control</li>
       </ul>
     </div>
   </div>
