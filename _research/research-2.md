@@ -13,7 +13,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 
   <!-- Panel 1 -->
   <div class="research-panel">
-    <img src="/images/research/flapping.jpg" alt="Bio-Inspired Flapping-Wing Robotics">
+    <img src="/images/research/flapping_wing_robotics.jpg" alt="Bio-Inspired Flapping-Wing Robotics">
     <div class="research-overlay">
       <h3>Bio-Inspired Flapping-Wing Robotics</h3>
       <p>
@@ -29,7 +29,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 
   <!-- Panel 2 -->
   <div class="research-panel">
-    <img src="/images/research/neurorobotics.jpg" alt="Neuro-Embodied Systems">
+    <img src="/images/research/neuromorphic_systems.jpg" alt="Neuro-Embodied Systems">
     <div class="research-overlay">
       <h3>Neuro-Embodied & Neuromorphic Systems</h3>
       <p>
@@ -45,7 +45,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 
   <!-- Panel 3 -->
   <div class="research-panel">
-    <img src="/images/research/lifelong.jpg" alt="Adaptive & Lifelong Learning">
+    <img src="/images/research/lifelong_learning.jpg" alt="Adaptive & Lifelong Learning">
     <div class="research-overlay">
       <h3>Adaptive & Lifelong Learning</h3>
       <p>
@@ -61,7 +61,7 @@ We pursue an integrated approach spanning **robot design, modeling, control, and
 
   <!-- Panel 4 -->
   <div class="research-panel">
-    <img src="/images/research/modeling.jpg" alt="Modeling and Control">
+    <img src="/images/research/modeling_control.jpg" alt="Modeling and Control">
     <div class="research-overlay">
       <h3>Modeling, Dynamics & Control</h3>
       <p>
