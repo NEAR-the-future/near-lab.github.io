@@ -118,13 +118,22 @@ We value curiosity, rigor, and building systems that learn through real interact
     </p>
   </div>
 
+  <div class="person-card">
+    <img src="/images/people/people_placeholder_male.jpg" alt="Student Name">
+    <h2>Chen Yang</h2>
+    <p class="person-role">Research Intern</p>
+    <p class="person-interest">
+      Embedded systems, modeling, software
+    </p>
+  </div>
+
 </div>
 
 <h2>Alumni & Visitors</h2>
 
 <ul class="alumni-list">
   <li><strong>Xinge Huang</strong> — Now at Institute of Mechanics, Chinese Academy of Sciences, Beijing, PR China</li>
-  <li><strong>Chen Yang</strong> — Now at School of Engineering, China University of Petroleum-Beijing at Karamay, Karamay, Xinjiang Uygur Autonomous Region, PR China</li>
+  <!-- <li><strong>Chen Yang</strong> — Now at School of Engineering, China University of Petroleum-Beijing at Karamay, Karamay, Xinjiang Uygur Autonomous Region, PR China</li> -->
   <li><strong>Yuhe Ding</strong> — Now at School of Information and Software Engineering, UESTC, Chengdu, PR China</li>
   <li><strong>Xiaofei Shi</strong> — Now at College of Engineering, Shantou University, Shantou, PR China</li>
 </ul>
